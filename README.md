@@ -13,4 +13,7 @@ This repo isn't quite finished! That means that it might not run properly at the
 
 My comments:
 
-Article: https://khalilstemmler.com/articles/sequelize-tags-junction-pattern
+Articles: 
+https://khalilstemmler.com/articles/typescript-domain-driven-design/repository-dto-mapper/
+https://khalilstemmler.com/articles/enterprise-typescript-nodejs/clean-nodejs-architecture/
+https://khalilstemmler.com/articles/sequelize-tags-junction-pattern
